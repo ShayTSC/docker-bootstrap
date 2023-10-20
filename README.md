@@ -1,4 +1,4 @@
-# Docker Quickstart
+# Docker Bootstrap
 
 This repository is for storing the common docker compose setup.
 
